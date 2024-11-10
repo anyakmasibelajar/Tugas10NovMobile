@@ -13,7 +13,7 @@ Dengan CitizenComp, pengguna dapat membuat laporan secara mudah dan cepat serta 
 [https://www.figma.com/design/dfBk8w8zKcf47h3G9pLcYM/Untitled?node-id=0-1&t=ruSBD8Su2mhXtDUV-1](https://www.figma.com/design/dfBk8w8zKcf47h3G9pLcYM/Untitled?node-id=0-1&t=ruSBD8Su2mhXtDUV-1)
 
 ## Penyusun - Kelompok 11
-
+```
 | Nama                      | NIM                |
 |---------------------------|--------------------|
 | Ilham Wijaya Kusuma       | 202210370311199    |
@@ -21,7 +21,7 @@ Dengan CitizenComp, pengguna dapat membuat laporan secara mudah dan cepat serta 
 | Nadra Tan                 | 202210370311124    |
 | Putri Nabila              | 202210370311129    |
 | Muhammad Thariq Alfarezi  | 202210370311193    |
-```
-Kelas           : Praktikum Mobile G  
-Perguruan Tinggi: Universitas Muhammadiyah Malang  
+
+Kelas            : Praktikum Mobile G  
+Perguruan Tinggi : Universitas Muhammadiyah Malang  
 ```
