@@ -21,6 +21,7 @@ Dengan CitizenComp, pengguna dapat membuat laporan secara mudah dan cepat serta 
 | Nadra Tan                 | 202210370311124    |
 | Putri Nabila              | 202210370311129    |
 | Muhammad Thariq Alfarezi  | 202210370311193    |
-
-**Kelas**             \t: Praktikum Mobile G  
-**Perguruan Tinggi**  \t: Universitas Muhammadiyah Malang  
+```
+Kelas           : Praktikum Mobile G  
+Perguruan Tinggi: Universitas Muhammadiyah Malang  
+```
