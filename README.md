@@ -1,16 +1,23 @@
 # CitizenComp
+CitizenComp adalah aplikasi pengaduan masyarakat yang bertujuan untuk memudahkan warga dalam melaporkan berbagai masalah yang terjadi di lingkungan mereka. Aplikasi ini dibangun menggunakan framework Flutter dan menggunakan Firebase untuk autentikasi serta penyimpanan data.
 
-A new Flutter project
+Dengan CitizenComp, pengguna dapat membuat laporan secara mudah dan cepat serta memantau status dari laporan yang mereka ajukan.
 
-## Getting Started
+## Fitur Aplikasi
+1. Pengumuman: Menampilkan pengumuman terbaru dari pihak terkait yang mungkin berkaitan dengan informasi publik atau kegiatan masyarakat.
+2. Laporan Warga: Fitur utama yang memungkinkan warga untuk melaporkan masalah atau kejadian di lingkungan mereka, seperti kerusakan fasilitas umum atau masalah kebersihan.
+3. Jadwal Musyawarah: Menyediakan jadwal musyawarah atau pertemuan warga yang bisa diikuti oleh pengguna, memungkinkan mereka untuk terlibat lebih aktif dalam kegiatan kemasyarakatan.
+4. Galeri Kita: Menampilkan galeri foto kegiatan atau dokumentasi peristiwa penting di lingkungan warga.
 
-This project is a starting point for a Flutter application.
+## Link Figma - UI/UX Aplikasi
+https://www.figma.com/design/dfBk8w8zKcf47h3G9pLcYM/Untitled?node-id=0-1&t=ruSBD8Su2mhXtDUV-1
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Penyusun - Kelompok 11
+Nama             : - Ilham Wijaya Kusuma      (202210370311199)
+                   - Ernaya Fitri             (202210370311138)
+                   - Nadra Tan                (202210370311124)
+                   - Putri Nabila             (202210370311129)
+                   - Muhammad Thariq Alfarezi (202210370311193)
+Kelas            : Praktikum Mobile G
+Perguruan Tinggi : Universitas Muhammadiyah Malang
+Project          : Flutter
