@@ -22,6 +22,6 @@ Dengan CitizenComp, pengguna dapat membuat laporan secara mudah dan cepat serta 
 | Muhammad Thariq Alfarezi  | 202210370311193    |
 
 ```
-Kelas            : Praktikum Mobile G  
+Kelas            : Pemrograman Mobile G  
 Perguruan Tinggi : Universitas Muhammadiyah Malang  
 ```
