@@ -13,11 +13,11 @@ Dengan CitizenComp, pengguna dapat membuat laporan secara mudah dan cepat serta 
 https://www.figma.com/design/dfBk8w8zKcf47h3G9pLcYM/Untitled?node-id=0-1&t=ruSBD8Su2mhXtDUV-1
 
 Penyusun - Kelompok 11
-Nama             : - Ilham Wijaya Kusuma      (202210370311199)
-                   - Ernaya Fitri             (202210370311138)
-                   - Nadra Tan                (202210370311124)
-                   - Putri Nabila             (202210370311129)
-                   - Muhammad Thariq Alfarezi (202210370311193)
+Nama             : - Ilham Wijaya Kusuma      (202210370311199)\n
+                   - Ernaya Fitri             (202210370311138)\n
+                   - Nadra Tan                (202210370311124)\n
+                   - Putri Nabila             (202210370311129)\n
+                   - Muhammad Thariq Alfarezi (202210370311193)\n
 Kelas            : Praktikum Mobile G
 Perguruan Tinggi : Universitas Muhammadiyah Malang
 Project          : Flutter
