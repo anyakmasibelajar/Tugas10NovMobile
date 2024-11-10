@@ -22,5 +22,5 @@ Dengan CitizenComp, pengguna dapat membuat laporan secara mudah dan cepat serta 
 | Putri Nabila              | 202210370311129    |
 | Muhammad Thariq Alfarezi  | 202210370311193    |
 
-**Kelas**             : Praktikum Mobile G  
-**Perguruan Tinggi**  : Universitas Muhammadiyah Malang  
+**Kelas**             \t: Praktikum Mobile G  
+**Perguruan Tinggi**  \t: Universitas Muhammadiyah Malang  
